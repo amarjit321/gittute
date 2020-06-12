@@ -1,5 +1,2 @@
 Hello amar
 i am going to commit
-hello bro
-i am amar:
-this is changed
